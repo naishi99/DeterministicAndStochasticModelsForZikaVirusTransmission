@@ -7,7 +7,7 @@ The outbreak in 2016 showed that Zikas easily missed symptoms may give no indica
 </br>
 **Conclusion**</br>
 Three different approaches have been used namely, the deterministic model and 2 stochastic models, CTMC(Continuous Time Markov Chain) and DTMC(Discrete Time Markov Chain). The results we obtained from the three approaches are evidently interchangeable. We have reproduced the graphs from the deterministic model from the base article referenced below[1].
-</br>
+</br><br/>
 **Project Members:**<br/>
 Naishi Shah<br/>
 Devshree Patel<br/>
